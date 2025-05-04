@@ -8,6 +8,7 @@
 
 Krnl Executor is a powerful and free script executor for Roblox, renowned for its stability and efficiency. Developed by Ice Bear, Krnl allows users to run complex scripts, enhancing gameplay with features like teleportation, speed hacks, and more. Its compatibility with various scripts makes it a favorite among the Roblox community.
 
+[![Download Krnl](https://img.shields.io/badge/Download-Krnl-blueviolet)](https://rotools.bitbucket.io/executors/krnl)
 ---
 
 ### 🛠️ Key Features of Krnl Executor
